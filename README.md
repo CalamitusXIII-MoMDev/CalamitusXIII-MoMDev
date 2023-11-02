@@ -1,4 +1,4 @@
-### Hi there, I'm Cayla - aka Calamitus [<img align="center" alt="wave" width="27px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" />](nohello.com) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+### Hi there, I'm Cayla - aka Calamitus [<img align="center" alt="wave" width="27px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" />] [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
 
 ## I'm a Developer & Gamer!!
@@ -6,14 +6,14 @@
 
 <br>
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalamitusXIII-MoMDev&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calamitusxiii-momdev&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
 ---
 
 
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CalamitusXIII-MoMDev&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=dracula" alt="Broken stats?">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=calamitusxiii-momdev&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=dracula" alt="Broken stats?">
     </td>
   </tr>
 </table>
@@ -45,4 +45,4 @@
 <br />
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CalamitusXIII-MoMDev&theme=onedark" alt="caylasstats"/></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calamitusxiii-momdev&theme=onedark" alt="caylasstats"/></a></p>
